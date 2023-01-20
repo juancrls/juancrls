@@ -11,9 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/juancrls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juancrls" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juan carlos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan carlos" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/retr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="retr0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juan-carlos-4a96b91aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-carlos-4a96b91aa/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14329447/retr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14329447/retr0" height="30" width="40" /></a>
 <a href="https://instagram.com/_jucaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jucaf" height="30" width="40" /></a>
 </p>
 
