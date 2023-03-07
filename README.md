@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
 <h3 align="center">A curious software developer from Brazil</h3>
 
-- 🔭 I’m currently working on [C# exercises](https://exercism.org/profiles/juancrls)
+- 🔭 I’m currently working on [React projects](https://github.com/juancrls/macro-app)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **React, Ember, Javascript**
 
