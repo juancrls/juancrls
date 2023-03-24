@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [React projects](https://github.com/juancrls/macro-app)
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 💬 Ask me about **React, Ember, Javascript**
 
-- 📫 How to reach me **ju4ncrls@gmail.com**
+- 📫 How to reach me **juan1112@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
