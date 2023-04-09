@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C# and .NET**
 
-- 💬 Ask me about **React, Ember, Javascript**
+- 💬 Ask me about **React, Node, Javascript**
 
 - 📫 How to reach me **juan1112@outlook.com.br**
 
