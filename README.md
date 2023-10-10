@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
 <h3 align="center">A curious software developer from Brazil</h3>
 
-- 🔭 I’m currently working on [React projects](https://github.com/juancrls/macro-app)
-
 - 🌱 I’m currently learning **C# and .NET**
 
 - 💬 Ask me about **React, Node, Javascript**
